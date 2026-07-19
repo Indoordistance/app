@@ -1,0 +1,47 @@
+{
+  "name": "Indoor Distance",
+  "short_name": "Indoor Distance",
+  "description": "AI-driven träning för all friidrott — kast, hopp, sprint, häck, distans, mångkamp",
+  "start_url": "./indoor_distance_pro%20(1).html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1626",
+  "theme_color": "#DCD0BC",
+  "lang": "sv",
+  "categories": ["sports", "health", "fitness", "education"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><radialGradient id='bg' cx='30%25' cy='30%25'><stop offset='0%25' stop-color='%231A2540'/><stop offset='100%25' stop-color='%230E1626'/></radialGradient></defs><rect width='192' height='192' rx='40' fill='url(%23bg)'/><circle cx='96' cy='96' r='80' fill='none' stroke='%23DCD0BC' stroke-width='3'/><text x='96' y='130' font-size='100' text-anchor='middle' fill='%23DCD0BC' font-family='Georgia,serif' font-style='italic' font-weight='600'>D</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><radialGradient id='bg' cx='30%25' cy='30%25'><stop offset='0%25' stop-color='%231A2540'/><stop offset='100%25' stop-color='%230E1626'/></radialGradient></defs><rect width='512' height='512' rx='100' fill='url(%23bg)'/><circle cx='256' cy='256' r='215' fill='none' stroke='%23DCD0BC' stroke-width='8'/><text x='256' y='345' font-size='265' text-anchor='middle' fill='%23DCD0BC' font-family='Georgia,serif' font-style='italic' font-weight='600'>D</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Mät kast",
+      "short_name": "Mät",
+      "url": "./indoor_distance_pro%20(1).html#camera",
+      "description": "Öppna kameran för AI-mätning"
+    },
+    {
+      "name": "Akademin",
+      "short_name": "Lär",
+      "url": "./indoor_distance_pro%20(1).html#academy",
+      "description": "Kurser och utmärkelser"
+    },
+    {
+      "name": "AI Coach",
+      "short_name": "AI",
+      "url": "./indoor_distance_pro%20(1).html#ai",
+      "description": "Chatta med AI-coachen"
+    }
+  ]
+}
